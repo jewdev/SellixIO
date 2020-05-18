@@ -2,10 +2,13 @@
  A [Sellix.io]("https://sellix.io") wrapper in C#
 
 # Installation
+## Install via NuGet
+## [https://www.nuget.org/packages/SellixIO](https://www.nuget.org/packages/SellixIO)
+
+# OR
+
 ## Download the DLL and import it to your project.
 ## [Download here]("https://github.com/jewdev/SellixIO/releases/latest")
-
-## (Installation via nuget - SOON!)
 
 # Usage
 
